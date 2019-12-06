@@ -1,0 +1,7 @@
+"Simple" Minesweeper game
+To play - Run the Main file. 
+You will be presented with a grid of mines, may the odds be ever in your favor.
+At the top right you will see a timer. This shows how long you have been working on this game.
+The smiley face at the top is the reset button. Click inside it to reset the game. 
+At the left you will see the difficulty and - + buttons. In order for the new difficulty to work, click the smiley.
+Seems simple enough. Good luck :)
